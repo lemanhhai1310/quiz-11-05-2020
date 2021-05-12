@@ -1,0 +1,10 @@
+.modal{
+  &__ketqua{
+    &__desc{
+      font-family: $font-HelveticaNeue-Medium;
+      line-height: (24/18);
+      @extend .fz-18;
+      color: #606c7d;
+    }
+  }
+}
