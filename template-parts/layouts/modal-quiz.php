@@ -15,25 +15,25 @@
                 <div class="uk-grid-small uk-child-width-1-1 uk-grid" uk-grid>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-1" checked>
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="a" name="radio2-1">
                             <span class="modal__quiz__checkTxt" data-attr="A">4</span>
                         </label>
                     </div>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-1">
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="b" name="radio2-1">
                             <span class="modal__quiz__checkTxt" data-attr="B">6</span>
                         </label>
                     </div>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-1">
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="c" name="radio2-1">
                             <span class="modal__quiz__checkTxt" data-attr="C">8</span>
                         </label>
                     </div>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-1">
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="d" name="radio2-1">
                             <span class="modal__quiz__checkTxt" data-attr="D">10</span>
                         </label>
                     </div>
@@ -47,25 +47,25 @@
                 <div class="uk-grid-small uk-child-width-1-1 uk-grid" uk-grid>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-2" checked>
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="a" name="radio2-2">
                             <span class="modal__quiz__checkTxt" data-attr="A">DCUKE</span>
                         </label>
                     </div>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-2">
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="b" name="radio2-2">
                             <span class="modal__quiz__checkTxt" data-attr="B">MDDY</span>
                         </label>
                     </div>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-2">
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="c" name="radio2-2">
                             <span class="modal__quiz__checkTxt" data-attr="C">MDYD</span>
                         </label>
                     </div>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-2">
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="d" name="radio2-2">
                             <span class="modal__quiz__checkTxt" data-attr="D">DCUEK</span>
                         </label>
                     </div>
@@ -79,25 +79,25 @@
                 <div class="uk-grid-small uk-child-width-1-1 uk-grid" uk-grid>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-3" checked>
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="a" name="radio2-3">
                             <span class="modal__quiz__checkTxt" data-attr="A">6</span>
                         </label>
                     </div>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-3">
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="b" name="radio2-3">
                             <span class="modal__quiz__checkTxt" data-attr="B">12</span>
                         </label>
                     </div>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-3">
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="c" name="radio2-3">
                             <span class="modal__quiz__checkTxt" data-attr="C">16</span>
                         </label>
                     </div>
                     <div>
                         <label>
-                            <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-3">
+                            <input class="uk-radio modal__quiz__radio" type="radio" value="d" name="radio2-3">
                             <span class="modal__quiz__checkTxt" data-attr="D">3</span>
                         </label>
                     </div>
@@ -113,25 +113,25 @@
                         <div class="uk-grid-small uk-child-width-1-1 uk-grid" uk-grid>
                             <div>
                                 <label>
-                                    <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-4" checked>
+                                    <input class="uk-radio modal__quiz__radio" type="radio" value="a" name="radio2-4">
                                     <span class="modal__quiz__checkTxt" data-attr="A">60%</span>
                                 </label>
                             </div>
                             <div>
                                 <label>
-                                    <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-4">
+                                    <input class="uk-radio modal__quiz__radio" type="radio" value="b" name="radio2-4">
                                     <span class="modal__quiz__checkTxt" data-attr="B">66%</span>
                                 </label>
                             </div>
                             <div>
                                 <label>
-                                    <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-4">
+                                    <input class="uk-radio modal__quiz__radio" type="radio" value="c" name="radio2-4">
                                     <span class="modal__quiz__checkTxt" data-attr="C">63%</span>
                                 </label>
                             </div>
                             <div>
                                 <label>
-                                    <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-4">
+                                    <input class="uk-radio modal__quiz__radio" type="radio" value="d" name="radio2-4">
                                     <span class="modal__quiz__checkTxt" data-attr="D">69%</span>
                                 </label>
                             </div>
@@ -152,7 +152,7 @@
                         <div class="uk-grid-small uk-child-width-1-1 uk-grid" uk-grid>
                             <div>
                                 <label>
-                                    <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-5" checked>
+                                    <input class="uk-radio modal__quiz__radio" type="radio" value="a" name="radio2-5">
                                     <span class="modal__quiz__checkTxt" data-attr="A">
                                     <img src="images/5a.png" alt="">
                                 </span>
@@ -160,7 +160,7 @@
                             </div>
                             <div>
                                 <label>
-                                    <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-5">
+                                    <input class="uk-radio modal__quiz__radio" type="radio" value="b" name="radio2-5">
                                     <span class="modal__quiz__checkTxt" data-attr="B">
                                     <img src="images/5b.png" alt="">
                                 </span>
@@ -168,7 +168,7 @@
                             </div>
                             <div>
                                 <label>
-                                    <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-5">
+                                    <input class="uk-radio modal__quiz__radio" type="radio" value="c" name="radio2-5">
                                     <span class="modal__quiz__checkTxt" data-attr="C">
                                     <img src="images/5c.png" alt="">
                                 </span>
@@ -176,7 +176,7 @@
                             </div>
                             <div>
                                 <label>
-                                    <input class="uk-radio modal__quiz__radio" type="radio" name="radio2-5">
+                                    <input class="uk-radio modal__quiz__radio" type="radio" value="d" name="radio2-5">
                                     <span class="modal__quiz__checkTxt" data-attr="D">
                                     <img src="images/5d.png" alt="">
                                 </span>
@@ -204,10 +204,9 @@
                 <div class="uk-child-width-1-1 uk-margin-small uk-grid uk-grid-medium" uk-grid>
                     <div>
                         <label>
-                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox" checked>
+                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox">
                             <span class="modal__quiz__checkTxt1">
-                                Máy tính có sức hấp dẫn đặc biệt với tôi. Tôi bị cuốn hút bởi việc mày mò và áp dụng các
-nguyên tắc kỹ thuật để thiết kế và sản xuất hàng hóa, dịch vụ.
+                                Máy tính có sức hấp dẫn đặc biệt với tôi. Tôi bị cuốn hút bởi việc mày mò và áp dụng các nguyên tắc kỹ thuật để thiết kế và sản xuất hàng hóa, dịch vụ.
                             </span>
                         </label>
                     </div>
@@ -237,10 +236,9 @@ nguyên tắc kỹ thuật để thiết kế và sản xuất hàng hóa, dịc
                 <div class="uk-child-width-1-1 uk-margin-small uk-grid uk-grid-medium" uk-grid>
                     <div>
                         <label>
-                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox" checked>
+                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox">
                             <span class="modal__quiz__checkTxt1">
-                                Tôi coi mình là một người học cả đời, nên được đắm mình trong những thứ mình mê thì tôi
-không “ngán” đâu!
+                                Tôi coi mình là một người học cả đời, nên được đắm mình trong những thứ mình mê thì tôi không “ngán” đâu!
                             </span>
                         </label>
                     </div>
@@ -248,8 +246,7 @@ không “ngán” đâu!
                         <label>
                             <input class="uk-checkbox modal__quiz__checkBox" type="checkbox">
                             <span class="modal__quiz__checkTxt1">
-                                Nếu việc học diễn ra trong giờ làm việc thì được, vì tôi không muốn mất cân bằng giữa công
-việc và cuộc sống.
+                                Nếu việc học diễn ra trong giờ làm việc thì được, vì tôi không muốn mất cân bằng giữa công việc và cuộc sống.
                             </span>
                         </label>
                     </div>
@@ -257,8 +254,7 @@ việc và cuộc sống.
                         <label>
                             <input class="uk-checkbox modal__quiz__checkBox" type="checkbox">
                             <span class="modal__quiz__checkTxt1">
-                                Tôi sẽ học nếu được cấp trên yêu cầu, nhưng tôi thường không chủ động cải thiện kỹ năng
-của mình hoặc tìm hiểu về ngành của mình cho lắm.
+                                Tôi sẽ học nếu được cấp trên yêu cầu, nhưng tôi thường không chủ động cải thiện kỹ năng của mình hoặc tìm hiểu về ngành của mình cho lắm.
                             </span>
                         </label>
                     </div>
@@ -272,7 +268,7 @@ của mình hoặc tìm hiểu về ngành của mình cho lắm.
                 <div class="uk-child-width-1-1 uk-margin-small uk-grid uk-grid-medium" uk-grid>
                     <div>
                         <label>
-                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox" checked>
+                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox">
                             <span class="modal__quiz__checkTxt1">
                                 Làm việc độc lập trong những dự án “dài hơi”
                             </span>
@@ -304,7 +300,7 @@ của mình hoặc tìm hiểu về ngành của mình cho lắm.
                 <div class="uk-child-width-1-1 uk-margin-small uk-grid uk-grid-medium" uk-grid>
                     <div>
                         <label>
-                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox" checked>
+                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox">
                             <span class="modal__quiz__checkTxt1">
                                 Tôi sẽ cố gắng hiểu phạm vi rộng hơn của dự án và hợp tác, hỗ trợ mọi người trong nhóm.
                             </span>
@@ -322,8 +318,7 @@ của mình hoặc tìm hiểu về ngành của mình cho lắm.
                         <label>
                             <input class="uk-checkbox modal__quiz__checkBox" type="checkbox">
                             <span class="modal__quiz__checkTxt1">
-                                Nếu đó chỉ là một nhiệm vụ nhỏ và có rất nhiều người đang làm việc trong dự án, tôi không lo
-lắng quá nhiều vì phần của tôi không quá quan trọng.
+                                Nếu đó chỉ là một nhiệm vụ nhỏ và có rất nhiều người đang làm việc trong dự án, tôi không lo lắng quá nhiều vì phần của tôi không quá quan trọng.
                             </span>
                         </label>
                     </div>
@@ -337,7 +332,7 @@ lắng quá nhiều vì phần của tôi không quá quan trọng.
                 <div class="uk-child-width-1-1 uk-margin-small uk-grid uk-grid-medium" uk-grid>
                     <div>
                         <label>
-                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox" checked>
+                            <input class="uk-checkbox modal__quiz__checkBox" type="checkbox">
                             <span class="modal__quiz__checkTxt1">
                                 Độ chính xác và tính năng của sản phẩm
                             </span>
