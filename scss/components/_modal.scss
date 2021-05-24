@@ -7,4 +7,108 @@
       color: #606c7d;
     }
   }
+  &__body{
+    .modal__quiz &{
+      width: 1000px;
+      background-color: #f1f3f6;
+    }
+  }
+  &__quiz{
+    &__btnSubmit{
+      border-color: #0134ff;
+      background-color: #0134ff;
+      color: #ffffff;
+      @extend .fz-18;
+      font-family: $font-HelveticaNeue-Bold;
+      border-radius: 4px;
+    }
+    &__title{
+      text-align: center;
+      font-family: $font-HelveticaNeue-Bold;
+      @extend .fz-34;
+      line-height: (40/34);
+    }
+    &__buttonLabel{
+      @extend .fz-20;
+      font-family: $font-HelveticaNeue-Bold;
+      border-color: #0134ff;
+      color: #0134ff;
+      background-color: #fff;
+    }
+    &__boxCauhoi{
+      border: 1px solid #97a3b5;
+      @include media-breakpoint-up('m'){
+        $x: 98px;
+        padding-left: #{$x};
+        padding-right: #{$x};
+      }
+      &__title{
+        font-family: $font-HelveticaNeue-Bold;
+        @extend .fz-20;
+        line-height: (26/20);
+      }
+    }
+    &__checkBox{
+      display: none;
+    }
+    &__radio{
+      display: none;
+    }
+    &__checkTxt1{
+      @extend .modal__quiz__checkTxt;
+      line-height: (24/16);
+      padding-left: 60px;
+      display: block;
+      .modal__quiz__checkBox:checked + &{
+        color: #0134ff !important;
+      }
+      &:before{
+        margin: 0 !important;
+        content: "" !important;
+        position: absolute !important;
+        left: 0;
+        top: 50% !important;
+        transform: translateY(-50%) !important;
+        .modal__quiz__checkBox:checked + &{
+          border: 1px solid #0134ff;
+          background-color: #0134ff;
+          background-image: url(images/Layer11-check.png);
+          background-repeat: no-repeat;
+          background-position: center;
+        }
+      }
+    }
+    &__checkTxt{
+      @extend .fz-16;
+      color: #606c7d;
+      font-family: $font-HelveticaNeue-Bold;
+      position: relative;
+      cursor: pointer !important;
+      .modal__quiz__radio:checked + &{
+        color: #0134ff;
+      }
+      &:before{
+        position: relative;
+        .modal__quiz__radio + &{
+          top: 50%;
+          transform: translateY(-50%);
+          content: attr(data-attr);
+        }
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 10px;
+        $x: 42px;
+        width: #{$x};
+        height: #{$x};
+        border-radius: 4px;
+        border: 1px solid #cbd1da;
+        .modal__quiz__radio:checked + &{
+          border: 1px solid #0134ff;
+          background-color: #0134ff;
+          color: #ffffff;
+        }
+      }
+    }
+  }
 }
