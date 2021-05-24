@@ -2,6 +2,6 @@
 <?php require "template-parts/layouts/modal-quiz.php"; ?>
 
 <script>
-    UIkit.modal('#modal-ketqua-outside').show();
-    // UIkit.modal('#modal-quiz-outside').show();
+    // UIkit.modal('#modal-ketqua-outside').show();
+    UIkit.modal('#modal-quiz-outside').show();
 </script>
